@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/sasangp/Documents/VHDL/EightBitComparator/eight_test_isim_beh.exe" -prj "C:/Users/sasangp/Documents/VHDL/EightBitComparator/eight_test_beh.prj" "work.eight_test" 

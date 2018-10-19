@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">gt_than</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">eq_than</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">le_than</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\sasangp\Documents\VHDL\EightBitComparator\EightBit_Comparator.vhd</arg>&quot; line <arg fmt="%s" index="2">23</arg>: Output port &lt;<arg fmt="%s" index="3">l</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">gen1[7].cp</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">cp0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">orOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">cp0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andTwo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">cp0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[1].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">orOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[1].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andTwo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[1].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[2].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">orOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[2].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andTwo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[2].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[3].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">orOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[3].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andTwo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[3].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[4].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">orOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[4].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andTwo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[4].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[5].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">orOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[5].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andTwo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[5].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[6].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">orOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[6].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andTwo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[6].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[7].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">orOne</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[7].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">andTwo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">gen1[7].cp</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+</messages>
+

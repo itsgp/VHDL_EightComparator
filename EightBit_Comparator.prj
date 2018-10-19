@@ -1,0 +1,5 @@
+vhdl work "../FullAdder/My_OR.vhd"
+vhdl work "../FullAdder/My_AND.vhd"
+vhdl work "My_NOT.vhd"
+vhdl work "OneBit_Comparator.vhd"
+vhdl work "EightBit_Comparator.vhd"

@@ -1,0 +1,26 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/sasangp/Documents/VHDL/EightBitComparator/eight_test_isim_beh.exe -prj C:/Users/sasangp/Documents/VHDL/EightBitComparator/eight_test_beh.prj work.eight_test 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/sasangp/Documents/VHDL/EightBitComparator/../FullAdder/My_OR.vhd" into library work
+Parsing VHDL file "C:/Users/sasangp/Documents/VHDL/EightBitComparator/../FullAdder/My_AND.vhd" into library work
+Parsing VHDL file "C:/Users/sasangp/Documents/VHDL/EightBitComparator/My_NOT.vhd" into library work
+Parsing VHDL file "C:/Users/sasangp/Documents/VHDL/EightBitComparator/OneBit_Comparator.vhd" into library work
+Parsing VHDL file "C:/Users/sasangp/Documents/VHDL/EightBitComparator/EightBit_Comparator.vhd" into library work
+Parsing VHDL file "C:/Users/sasangp/Documents/VHDL/EightBitComparator/eight_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture structural of entity My_AND [my_and_default]
+Compiling architecture behavioral of entity My_NOT [my_not_default]
+Compiling architecture structural of entity My_OR [my_or_default]
+Compiling architecture structural of entity OneBit_Comparator [onebit_comparator_default]
+Compiling architecture structural of entity EightBit_Comparator [eightbit_comparator_default]
+Compiling architecture behavior of entity eight_test
+Time Resolution for simulation is 1ps.
+Compiled 13 VHDL Units
+Built simulation executable C:/Users/sasangp/Documents/VHDL/EightBitComparator/eight_test_isim_beh.exe
+Fuse Memory Usage: 28932 KB
+Fuse CPU Usage: 312 ms

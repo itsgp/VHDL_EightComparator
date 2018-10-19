@@ -1,0 +1,5 @@
+work	"../FullAdder/My_AND.vhd"
+work	"../FullAdder/My_OR.vhd"
+work	"EightBit_Comparator.vhd"
+work	"My_NOT.vhd"
+work	"OneBit_Comparator.vhd"

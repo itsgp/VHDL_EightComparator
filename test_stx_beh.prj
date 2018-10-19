@@ -1,0 +1,5 @@
+vhdl isim_temp "../FullAdder/My_OR.vhd"
+vhdl isim_temp "../FullAdder/My_AND.vhd"
+vhdl isim_temp "My_NOT.vhd"
+vhdl isim_temp "OneBit_Comparator.vhd"
+vhdl isim_temp "test.vhd"
